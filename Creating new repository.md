@@ -49,7 +49,7 @@
 
 ![gd push](https://github.com/mygclass2020/Demos/assets/145348137/013826a6-fa8f-4c65-8619-08b03b8b9416)
 
-7. Click on **Publish your Repository**
+7. Click on **Publish Repository**
 
 ![gd publish](https://github.com/mygclass2020/Demos/assets/145348137/66d75d7a-d7bb-475a-a83d-c4c4a1a2fa2e)
 
