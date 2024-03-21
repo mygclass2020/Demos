@@ -1,0 +1,61 @@
+### Demo - Creating a new branch and check in to main branch
+
+
+### For Github website
+
+1. In your repository, select **Branch**
+
+![gw branch](https://github.com/mygclass2020/Demos/assets/145348137/a5caa1fc-da20-4ac8-b3fa-6cb42f6445b2)
+
+2. Select **New Branch**
+
+![gw new branch](https://github.com/mygclass2020/Demos/assets/145348137/e6f6ea33-6007-45d4-afac-ca6468292f77)
+
+3. Write your branch name and select **Create new branch**
+
+![gw create](https://github.com/mygclass2020/Demos/assets/145348137/c3254ab7-9ab0-4d05-a6d2-e6ae7bf7e494)
+
+![gw create1](https://github.com/mygclass2020/Demos/assets/145348137/84d0abaa-74f5-4ea9-9890-346b0a5fe01a)
+
+4. In your repository, select your new branch
+
+![gw shift](https://github.com/mygclass2020/Demos/assets/145348137/3ddfbacb-a686-4584-a58c-5a42f9169c16)
+
+5. Add a file in your new branch and then click on **Compare & pull request**
+
+![gw pr](https://github.com/mygclass2020/Demos/assets/145348137/4f771efa-19e1-49ad-b0c8-7140721de9f5)
+
+6. Add a title and click on **Create pull request**
+
+![gw pr1](https://github.com/mygclass2020/Demos/assets/145348137/1776931a-5d21-43b1-81ee-4b8cfd475594)
+
+7. Click on **Merge pull request** to complete check in to main branch
+
+![gw merge](https://github.com/mygclass2020/Demos/assets/145348137/449d5838-ac0b-47a0-93e9-b4e42402b6fb)
+
+
+### For Github Desktop
+
+1. In Github Desktop, go to **Repository --> New branch**
+
+![gd branch](https://github.com/mygclass2020/Demos/assets/145348137/e8f25732-c5ab-4503-8d62-9a7cbe8928e8)
+
+2. Write your branch name and select **Create branch**
+
+![gd new branch](https://github.com/mygclass2020/Demos/assets/145348137/2a44ade3-9950-4cba-b10b-6688800b5481)
+
+3. Add a file in your new branch and go to **Repository --> Push**
+
+![gd push branch](https://github.com/mygclass2020/Demos/assets/145348137/5aac2719-63db-4cc7-a657-93f897932d63)
+
+4. Go to **Branch --> Create pull request**
+
+![gd branch pr](https://github.com/mygclass2020/Demos/assets/145348137/b86a6c76-b300-455e-973b-44ae38fa7a8a)
+
+5. Add a title and click on **Create pull request**
+
+![gd pr](https://github.com/mygclass2020/Demos/assets/145348137/6bbb027e-a0f9-4631-8971-c0e844ab0ca3)
+
+6. Click on **Merge pull request** to complete check in to main branch
+
+![gd merge](https://github.com/mygclass2020/Demos/assets/145348137/0f5e5024-4286-4955-bbd0-b7a7275bde20)
