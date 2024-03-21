@@ -1,4 +1,4 @@
-## Demo - Creating new repository and check in artifacts to main repository
+## Demo - Creating new repository and adding a file
 
 ### For Github website
 
