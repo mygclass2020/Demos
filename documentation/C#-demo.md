@@ -475,7 +475,7 @@ class Car
 
 ### Access Modifiers
 
-![AcsessModifiers](Images\Csharp-demo\accessModifiers.png)
+![AcsessModifiers](Images/Csharp-demo/accessModifiers.png)
 
 - Static - Related to the type itself, rather than an instance of the type
 - Void - Does not have a return type
